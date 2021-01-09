@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* My Styles */
+.item-style {
+  list-style: none;
+  border: 1px solid gray;
+  width: 50px;
+  margin-bottom: 5px;
+}
